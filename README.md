@@ -11,8 +11,13 @@
 ## Veja rodando <a href="https://imerik1.github.io/contador/">clicando aqui</a>
 
 ### FERRAMENTAS
+  #### Utilizado para criar o localStorage
   - StashJs: <a href="http://rezitech.github.io/stash/">Clique aqui</a>
+  
+  #### Utilizado para criar o carregamento apenas após a confirmação
   - jQuery: <a href="https://jquery.com/download/">Clique aqui</a>
+  
+  #### Utilizado para tirar a padronização dos navegadores
   - NormalizeCSS: <a href="https://necolas.github.io/normalize.css/">Clique aqui</a>
 
 <!-- COLOCAR LINK DO PREVIEW GIF  -->
