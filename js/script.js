@@ -18,5 +18,5 @@ function savePref() {
 function disableBox() {
     let cookiesPermission = document.getElementById('cookies')
     cookiesPermission.style.display = 'none';
-    $( "#root" ).load( "./contador.html" );
+    $( "#root" ).load( "./pages/contador.html" );
 }
